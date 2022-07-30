@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JohnPhm
-- 👀 I’m interested in ... becoming a full stack software engineer or data scientist
-- 🌱 I’m currently learning ... Java, Python, C++, and other CS related things
-- 💞️ I’m looking to collaborate on ... learning 
+- 👋 Hi, my name is John Pham and I am a rising third year college student majoring in Computer Science.
+- 👀 I’m interested in machine learning/AI, data science, and everything about raspberry pi's.
+- 🌱 I’m currently learning Java, Python, and C++
+- 💞️ I’m looking to collaborate on Leetcode and preparing for technical interviews.
 - 📫 How to reach me ... Gmail: itsjohnphm@gmail.com 
 
 <!---
